@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+ఈ సైట్ 18 ఏళ్లలోపు వారి కోసం కాదు. ఇది యేసుపై విశ్వాసం గురించి మాట్లాడుతుంది, అది మతపరమైన అంశం, కాబట్టి ఇది పెద్దల కోసం రాయబడింది. మీరు 18 ఏళ్లలోపు వారైతే, దయచేసి ఇక్కడ వ్యక్తిగత సమాచారం పంచుకోవద్దు, జోనాథన్‌కు రాయవద్దు.
+
+స్పెయిన్‌లో, చట్టం ప్రకారం 14 ఏళ్లలోపు పిల్లలు ఆన్‌లైన్‌లో వ్యక్తిగత డేటా పంచుకునే ముందు తల్లిదండ్రులు లేదా సంరక్షకుల అంగీకారం అవసరం. ఈ సైట్ నియమం అంతకంటే కఠినం: 18 ఏళ్లలోపు అయితే, ఈ సైట్ మీ కోసం కాదు.
 
 ## Changes
 
